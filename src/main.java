@@ -1,3 +1,12 @@
+/**
+ Adam Pei
+ 10th January 2024
+ Vigenere's Cipher
+ Help given by Ms Nahar, Mr Tam, GeeksForGeeks
+ This program encrypts and decrypts text files based on a shift key.
+ **/
+
+
 import java.io.*;
 import java.util.Scanner;
 import java.util.Arrays;
